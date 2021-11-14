@@ -1,6 +1,6 @@
 # Profile card component
 
-## [Live]()
+## [Live](https://yhertekin.github.io/Profile-card-component/)
 
 ## Desktop
 
